@@ -1,0 +1,5 @@
+name: QuexerAPI
+version: ${project.version}
+main: me.quexer.api.quexerapi.QuexerAPI
+authors: [Quexer]
+description: QuexerAPI
